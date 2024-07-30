@@ -1,9 +1,14 @@
 project:
   type: website
 
+date: 2024-07-20
+lang: de
+
 website:
-  title: "Über das wissenschaftliche Schreiben"
+  title: "_TEMPLATE"
   sidebar:
+    style: "docked"
+    search: true
     contents:
       - README.md
 
@@ -19,7 +24,3 @@ format:
     theme:
       light: flatly
       dark: darkly
-    	
-
-render:
-  dpi: 1

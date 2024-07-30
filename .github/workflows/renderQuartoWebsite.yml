@@ -1,4 +1,4 @@
-name: Generate Export Files
+name: Generate Export Files, Render the Quarto-Page and publish it to gh-pages
 
 on:
   push:
@@ -12,6 +12,7 @@ permissions:
 
 jobs:
   generate-export-files-directory:
+    - name: Generate Export Files, Render the Quarto-Page and publish it to gh-pages
     runs-on: ubuntu-latest
 
     steps:

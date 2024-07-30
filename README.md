@@ -4,15 +4,17 @@
 ```
 //TODO git config email username
 git init
+git remote add origin https://github.com/uegwq/ObsidianQuartoTemplate.git
+git pull
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin LINK
 git push -u origin main
 git checkout -b gh-pages
 git push -u origin gh-pages 
 ```
+2. go to `Settings>pages>Build and deployment>Branch` and set it to be *gh-pages* and the folder to `/ (root)`.
 
-1. create contents website view with fancy program
+3. create contents website view with fancy program
 
 2. profit
