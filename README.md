@@ -15,6 +15,10 @@ git push -u origin gh-pages
 ```
 2. go to `Settings>pages>Build and deployment>Branch` and set it to be *gh-pages* and the folder to `/ (root)`.
 
-3. create contents website view with fancy program
+3. create contents website view with fancy program and change 
+- theme
+- date
+
+4. modify the index.qmd file (title, description, possibly image)
 
 2. profit

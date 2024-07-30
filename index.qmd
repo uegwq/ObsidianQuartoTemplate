@@ -1,3 +1,4 @@
+<!--TAGS-->
 ---
 pagetitle: "_TEMPLATE"
 page-layout: custom
@@ -10,5 +11,7 @@ description: |
 #resources: 
 #  - images/hero_animation.mp4
 ---
+<!--/TAGS-->
+
 
 ## THIS IS A TEMPLATE
