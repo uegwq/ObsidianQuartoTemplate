@@ -10,8 +10,10 @@ website:
     style: "docked"
     search: true
     contents:
-      - README.md
-      - index.qmd
+      - text: "The Index file you are seing right now"
+        href: index.qmd
+      - text: "The Readme file for good measures"
+        href: Readme.md
 
 execute:
   freeze: true
