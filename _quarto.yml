@@ -11,6 +11,7 @@ website:
     search: true
     contents:
       - README.md
+      - index.qmd
 
 execute:
   freeze: true
