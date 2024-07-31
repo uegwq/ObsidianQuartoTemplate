@@ -5,10 +5,9 @@ date: 2024-07-20
 lang: de
 
 website:
-  repo-url: https://github.com/uegwq/Softwaretechnik-1-Notizen/
+  repo-url: https://github.com/quarto-dev/quarto-demo
   repo-actions: [edit, issue]
   title: "_TEMPLATE"
-  
   sidebar:
     style: "docked"
     search: true
