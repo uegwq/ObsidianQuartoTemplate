@@ -17,6 +17,8 @@ website:
       - section: "The Readme file but as a section"
         href: "README.md"
         contents:
+          - README.md
+          - index.qmd
 
 execute:
   freeze: true
