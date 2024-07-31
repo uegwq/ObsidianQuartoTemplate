@@ -24,6 +24,10 @@
     "href": "Testfile.html",
     "title": "_TEMPLATE",
     "section": "",
-    "text": "Hello this is a test! Will this be displayed in the website?"
+    "text": "Hello this is a test! Will this be displayed in the website?",
+    "crumbs": [
+      "The Readme file but as a section",
+      "Testfile.html"
+    ]
   }
 ]
