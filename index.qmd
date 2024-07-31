@@ -2,9 +2,9 @@
 ---
 pagetitle: "_TEMPLATE"
 page-layout: custom
-section-divs: false
+# section-divs: false
 toc: true
-# toc means table of contents and tells you if theres one
+# toc means table of contents, thats a link to all sections
 description: | 
   A cool template
 #hide-description: true
