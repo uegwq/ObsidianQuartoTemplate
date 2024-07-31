@@ -8,6 +8,7 @@ website:
   repo-url: https://github.com/uegwq/Softwaretechnik-1-Notizen/
   repo-actions: [edit, issue]
   title: "_TEMPLATE"
+  
   sidebar:
     style: "docked"
     search: true
