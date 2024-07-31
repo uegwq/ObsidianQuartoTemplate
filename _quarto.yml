@@ -13,7 +13,10 @@ website:
       - text: "The Index file you are seing right now"
         href: index.qmd
       - text: "The Readme file for good measures"
-        href: Readme.md
+        href: README.md
+      - section: "The Readme file but as a section"
+        href: README.md
+        contents:
 
 execute:
   freeze: true
