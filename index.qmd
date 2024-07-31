@@ -3,7 +3,8 @@
 pagetitle: "_TEMPLATE"
 page-layout: custom
 section-divs: false
-toc: false
+toc: true
+# toc means table of contents and tells you if theres one
 description: | 
   A cool template
 #hide-description: true
