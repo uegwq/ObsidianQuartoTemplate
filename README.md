@@ -11,13 +11,13 @@ git init
 
 git remote add origin https://github.com/uegwq/ObsidianQuartoTemplate.git
 
-git pull
+git branch -M main
+
+git pull origin main
 
 git add .
 
 git commit -m "Initial commit"
-
-git branch -M main
 
 git push -u origin main
 
@@ -40,5 +40,8 @@ git push -u origin gh-pages
 4. modify the index.qmd file (title, description, possibly image)
 
 
-2. profit
+5.  change repo url for editing and issues
+
+
+7. profit
 
