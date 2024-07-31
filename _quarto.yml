@@ -15,10 +15,10 @@ website:
       - text: "The Readme file for good measures"
         href: "README.md"
       - section: "The Readme file but as a section"
-        href: "README.md"
         contents:
-          - README.md
-          - index.qmd
+          - "README.md"
+          - "index.qmd"
+          - "Testfile.md"
 
 execute:
   freeze: true
