@@ -11,11 +11,11 @@ website:
     search: true
     contents:
       - text: "The Index file you are seing right now"
-        href: index.qmd
+        href: "index.qmd"
       - text: "The Readme file for good measures"
-        href: README.md
+        href: "README.md"
       - section: "The Readme file but as a section"
-        href: README.md
+        href: "README.md"
         contents:
 
 execute:
